@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi 👋, I'm Putra</h1>
 <h3 align="left">A passionate frontend developer </h3>
-<img align="right" alt="coding" width="340" src =https://media2.giphy.com/media/MT5UUV1d4CXE2A37Dg/200w.gif?cid=6c09b952py0nc3l6rg69q2nyenhbpzw4bt63g83n7kdbocys&rid=200w.gif&ct=g>
+<img align="right" alt="coding" width="350" src =https://media2.giphy.com/media/MT5UUV1d4CXE2A37Dg/200w.gif?cid=6c09b952py0nc3l6rg69q2nyenhbpzw4bt63g83n7kdbocys&rid=200w.gif&ct=g>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsaputra&label=Profile%20views&color=0e75b6&style=flat" alt="mdsaputra" /> </p>
 
 <h3 align="left">Connect with me:</h3>
